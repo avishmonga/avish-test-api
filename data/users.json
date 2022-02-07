@@ -1,3 +1,255 @@
 [
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forkids": true,
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "id": 1
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forchildren": "",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "3",
+      "forkids": "yes",
+      "id": 3
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forchildren": "",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "forkids": "yes",
+      "id": 4
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forchildren": "",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "forkids": "yes",
+      "id": 5
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forchildren": "",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "forkids": "yes",
+      "id": 6
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forchildren": "",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "forkids": "yes",
+      "id": 7
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forchildren": "",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "forkids": "yes",
+      "id": 8
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forchildren": "",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "forkids": "yes",
+      "id": 9
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forchildren": "",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "forkids": "yes",
+      "id": 11
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forchildren": "",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "forkids": "yes",
+      "id": 12
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forchildren": "",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "forkids": "yes",
+      "id": 13
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forchildren": "",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "forkids": "yes",
+      "id": 14
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forchildren": "",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "forkids": "yes",
+      "id": 27
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forchildren": "",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "forkids": "yes",
+      "id": 28
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forchildren": "",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "forkids": "yes",
+      "id": 29
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forchildren": "",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "forkids": "yes",
+      "id": 30
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forchildren": "",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "forkids": "yes",
+      "id": 31
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forchildren": "",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "forkids": "yes",
+      "id": 32
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forchildren": "",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "forkids": "yes",
+      "id": 33
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forchildren": "",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "forkids": "yes",
+      "id": 34
+    },
+    {
+      "gamename": "Mario",
+      "gameauthor": "Nintendo",
+      "gameprice": "599",
+      "gametags": "adventure, multiplayer",
+      "forchildren": "",
+      "gamedesc": "Super Mario is a platform game series created by Nintendo based on and starring the fictional plumber Mario.",
+      "gamerating": "3",
+      "forkids": "yes",
+      "id": 35
+    },
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forchildren": "",
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "forkids": "yes",
+      "id": 36
+    },
+    {
+      "gamename": "asd",
+      "gameauthor": "sdfa",
+      "gameprice": "123",
+      "gametags": "asdf",
+      "forchildren": "",
+      "gamedesc": "sadass",
+      "gamerating": "5",
+      "forkids": "yes",
+      "id": 37
+    }
     
   ]
