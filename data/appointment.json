@@ -2,29 +2,30 @@
     "name":"Dr.Singla",
     "speciality":"Heart",
     "image_url":"",
+    "isAvailable":true,
     "Availablity":[
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:30 - 9:50"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:50 - 10:10"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"10:10 - 10:30"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:00 - 11:20"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:20 - 11:50"
         }
@@ -35,29 +36,30 @@
     "name":"Dr.Garg",
     "speciality":"Eye",
     "image_url":"",
+    "isAvailable":true,
     "Availablity":[
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:30 - 9:50"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:50 - 10:10"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"10:10 - 10:30"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:00 - 11:20"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:20 - 11:50"
         }
@@ -68,29 +70,30 @@
     "name":"Dr.Chaudhary",
     "speciality":"Bones",
     "image_url":"",
+    "isAvailable":true,
     "Availablity":[
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:30 - 9:50"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:50 - 10:10"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"10:10 - 10:30"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:00 - 11:20"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:20 - 11:50"
         }
@@ -101,29 +104,30 @@
     "name":"Dr.Gupta",
     "speciality":"Pulmonary",
     "image_url":"",
+    "isAvailable":true,
     "Availablity":[
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:30 - 9:50"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:50 - 10:10"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"10:10 - 10:30"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:00 - 11:20"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:20 - 11:50"
         }
@@ -134,29 +138,30 @@
     "name":"Dr.Dhingra",
     "speciality":"Physotherapist",
     "image_url":"",
+    "isAvailable":true,
     "Availablity":[
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:30 - 9:50"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:50 - 10:10"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"10:10 - 10:30"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:00 - 11:20"
         },
         {
-            "isAvailable":true,
+            "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:20 - 11:50"
         }
