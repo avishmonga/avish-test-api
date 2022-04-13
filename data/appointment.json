@@ -46,31 +46,31 @@
     "isAvailable":true,
     "Availablity":[
         {
-            "slot_id":1,
+            "slot_id":6,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:30 - 9:50"
         },
         {
-            "slot_id":2,
+            "slot_id":7,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:50 - 10:10"
         },
         {
-            "slot_id":3,
+            "slot_id":8,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"10:10 - 10:30"
         },
         {
-            "slot_id":4,
+            "slot_id":9,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:00 - 11:20"
         },
         {
-            "slot_id":5,
+            "slot_id":10,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:20 - 11:50"
@@ -86,31 +86,31 @@
     "isAvailable":true,
     "Availablity":[
         {
-            "slot_id":1,
+            "slot_id":11,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:30 - 9:50"
         },
         {
-            "slot_id":2,
+            "slot_id":12,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:50 - 10:10"
         },
         {
-            "slot_id":3,
+            "slot_id":13,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"10:10 - 10:30"
         },
         {
-            "slot_id":4,
+            "slot_id":14,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:00 - 11:20"
         },
         {
-            "slot_id":5,
+            "slot_id":15,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:20 - 11:50"
@@ -126,31 +126,31 @@
     "isAvailable":true,
     "Availablity":[
         {
-            "slot_id":1,
+            "slot_id":16,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:30 - 9:50"
         },
         {
-            "slot_id":2,
+            "slot_id":17,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:50 - 10:10"
         },
         {
-            "slot_id":3,
+            "slot_id":18,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"10:10 - 10:30"
         },
         {
-            "slot_id":4,
+            "slot_id":19,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:00 - 11:20"
         },
         {
-            "slot_id":5,
+            "slot_id":20,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:20 - 11:50"
@@ -166,31 +166,31 @@
     "isAvailable":true,
     "Availablity":[
         {
-            "slot_id":1,
+            "slot_id":21,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:30 - 9:50"
         },
         {
-            "slot_id":2,
+            "slot_id":22,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:50 - 10:10"
         },
         {
-            "slot_id":3,
+            "slot_id":23,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"10:10 - 10:30"
         },
         {
-            "slot_id":4,
+            "slot_id":24,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:00 - 11:20"
         },
         {
-            "slot_id":5,
+            "slot_id":25,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:20 - 11:50"
