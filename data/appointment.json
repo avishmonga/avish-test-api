@@ -6,26 +6,31 @@
     "isAvailable":true,
     "Availablity":[
         {
+            "slot_id":1,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:30 - 9:50"
         },
         {
+            "slot_id":2,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:50 - 10:10"
         },
         {
+            "slot_id":3,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"10:10 - 10:30"
         },
         {
+            "slot_id":4,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:00 - 11:20"
         },
         {
+            "slot_id":5,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:20 - 11:50"
@@ -41,26 +46,31 @@
     "isAvailable":true,
     "Availablity":[
         {
+            "slot_id":1,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:30 - 9:50"
         },
         {
+            "slot_id":2,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:50 - 10:10"
         },
         {
+            "slot_id":3,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"10:10 - 10:30"
         },
         {
+            "slot_id":4,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:00 - 11:20"
         },
         {
+            "slot_id":5,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:20 - 11:50"
@@ -76,26 +86,31 @@
     "isAvailable":true,
     "Availablity":[
         {
+            "slot_id":1,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:30 - 9:50"
         },
         {
+            "slot_id":2,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:50 - 10:10"
         },
         {
+            "slot_id":3,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"10:10 - 10:30"
         },
         {
+            "slot_id":4,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:00 - 11:20"
         },
         {
+            "slot_id":5,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:20 - 11:50"
@@ -111,26 +126,31 @@
     "isAvailable":true,
     "Availablity":[
         {
+            "slot_id":1,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:30 - 9:50"
         },
         {
+            "slot_id":2,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:50 - 10:10"
         },
         {
+            "slot_id":3,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"10:10 - 10:30"
         },
         {
+            "slot_id":4,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:00 - 11:20"
         },
         {
+            "slot_id":5,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:20 - 11:50"
@@ -146,26 +166,31 @@
     "isAvailable":true,
     "Availablity":[
         {
+            "slot_id":1,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:30 - 9:50"
         },
         {
+            "slot_id":2,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"9:50 - 10:10"
         },
         {
+            "slot_id":3,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"10:10 - 10:30"
         },
         {
+            "slot_id":4,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:00 - 11:20"
         },
         {
+            "slot_id":5,
             "slotAvailable":true,
             "date":"14-04-2022",
             "time":"11:20 - 11:50"
